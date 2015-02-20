@@ -1,0 +1,22 @@
+[global_config]
+  tab_position = hidden
+  borderless = True
+[keybindings]
+[profiles]
+  [[default]]
+    background_image = None
+    background_darkness = 0.83
+    background_type = transparent
+    scrollbar_position = hidden
+    icon_bell = False
+    show_titlebar = False
+    font = Monospace 10
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
