@@ -1,0 +1,6 @@
+[user]
+	name = Arkadiusz Surma
+	email = arkadiusz@uchy.pl
+	signingkey = BF738B8E0FDCBF2BB86B3DDF7D9030AE3E3673E1
+[core]
+	excludesfile = ~/.gitignore
